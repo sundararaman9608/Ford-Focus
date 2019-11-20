@@ -1,3 +1,1 @@
-1. First commit for intern
-
-2. Second commit for intern
+First commit for intern
